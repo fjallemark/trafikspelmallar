@@ -7,7 +7,14 @@ Kör man H0 så skall lok- och vagnkort vara i liggande A6-format (14,8 c 10,5 c
 På korten sätter man en platsficka i kreditkortsstorlek för omloppstidtabell/fraktsedel. 
 Bredden på fickan skall vara minst 60 mm, medan höjden skall vara tillräckling för att omloppstidtabell/fraktsedel sitter kvar, men lätt kan tas ut.
 
-## Material
+![Exempel](Lokdokumentation.jpg)
+
+### Mallar
+Mallarna för lok- och vagnkort är gjorda i PowerPoint, så du behöver en relativt ny version av Microsoft Office för att använda mallarna.
+Notera att ägar-informationen ligger i bakgrunden, så du slipper kopiera den för varje nytt kort.
+Bilderna får du ta själv, alternativt söka efter på nätet.
+
+### Material
 Efter att du har skrivit ut lok- och vagnkort, behöver du ett hölje (laminera eller ficka) och en ficka för omloppstidtabell/fraktsedel:
 - [Insticksficka  A&, om man inte vill laminera varje kort](https://www.marko.se/plastfickor/presentationsfickor/dokumentficka/dokument-ficka-10083-50)
 - [Lamineringsficka A6](https://www.marko.se/plastfickor/lamineringsprodukter/lamineringskort/laminerings-kort-170-30240]A6-lamineringsficka)
