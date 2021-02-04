@@ -14,6 +14,8 @@ Mallarna för lok- och vagnkort är gjorda i PowerPoint, så du behöver en rela
 Notera att ägar-informationen ligger i bakgrunden, så du slipper kopiera den för varje nytt kort.
 Bilderna får du ta själv, alternativt söka efter på nätet.
 
+![Färger för godsvagnkort](Godsvagnar.JPG)
+
 ### Material
 Efter att du har skrivit ut lok- och vagnkort, behöver du ett hölje (laminera eller ficka) och en ficka för omloppstidtabell/fraktsedel:
 - [Insticksficka  A&, om man inte vill laminera varje kort](https://www.marko.se/plastfickor/presentationsfickor/dokumentficka/dokument-ficka-10083-50)
